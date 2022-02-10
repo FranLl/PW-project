@@ -15,15 +15,15 @@
   </context-param>
   <context-param>
     <param-name>usuario</param-name>
-    <param-value>i92caluf</param-value>
+    <param-value>xxxx</param-value>
   </context-param>
   <context-param>
     <param-name>dbname</param-name>
-    <param-value>i92caluf</param-value>
+    <param-value>xxxx</param-value>
   </context-param>
   <context-param>
     <param-name>pass</param-name>
-    <param-value>pw2122</param-value>
+    <param-value>xxxx</param-value>
   </context-param>
   <context-param>
     <param-name>pathSQL</param-name>
