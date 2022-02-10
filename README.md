@@ -1,5 +1,5 @@
 # PW-project
-A project to Web Programing (Programación Web) subject. Made with Java, HTML, CSS and JavaScript
+A project to Web Programing (Programación Web) subject. Made with Java, HTML, CSS and JavaScript. It includes a full-stack develop, from the data base to the HTML, using the MVC design pattern throughout the project.
 
 ## Authors
 Mario Berrios  
