@@ -1,0 +1,35 @@
+
+form{
+    display: block;
+    margin-bottom: 10px;
+    padding-top: 0;
+    margin: 0 auto;
+    background-color: inherit;
+}
+
+label, input{
+	margin-bottom: 5px;
+	font-style: normal;
+}
+
+label{
+	display: block;
+}
+
+input{
+	border-width: 0px;
+	border-radius: 4px;
+	font-size: 1.1rem;
+}
+
+input[type="email"],
+input[type="password"]{
+	text-align: center;
+	width: 80%;
+}
+
+input[value="Acceder"]{
+	display: block;
+	margin: 0 auto;
+	margin-top: 10px;
+}

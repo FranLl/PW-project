@@ -1,0 +1,43 @@
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+div{
+	width: 80%;
+	margin: 0 auto;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+label{
+	display: inline-block;
+	width: 45%;
+	outline: none;
+}
+
+label{
+	padding: 5px;
+	border-radius: 10px 0 0 10px;
+	background-color: #1A1423;
+	vertical-align: middle;
+	margin-right: 4%;
+}
+
+label[for="isAdmin"]{
+	width: 70%;
+	border-radius: 10px;
+	background-color: #684756;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"]{
+	margin-top: 0;
+	font-size: 1.2rem;
+	border-radius: 0 10px 10px 0;
+}

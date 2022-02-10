@@ -1,0 +1,13 @@
+
+label{
+	display: block;
+	padding: 0;
+	float: left;
+	margin-left: 10px;
+	margin-top: 7px;
+	width: 30%;
+}
+
+input[type="datetime-local"]{
+	font-size: 1.2rem;
+}

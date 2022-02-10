@@ -1,0 +1,43 @@
+
+ul{
+	list-style-type: none;
+	display: contents;
+}
+
+li{
+	width: 80%;
+	text-align: left;
+	margin: 10px auto;
+	display: block;
+	overflow: auto;
+	background-color: #1A1423;
+	text-align: left;
+	border-radius: 10px;
+}
+
+p{
+	float: left;
+	margin-left: 10px;
+}
+
+div{
+	width:80%;
+	margin: 0 auto;
+}
+
+form{
+	width: initial;
+}
+
+
+input[type="datetime-local"]{
+	font-size:1.2rem;
+}
+
+form#volver{
+	margin: initial;
+	display: initial;
+	float: initial;
+}
+
+

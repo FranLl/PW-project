@@ -1,0 +1,48 @@
+
+div{
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #684756;
+	border-radius: 10px;
+	width: 80%;
+}
+
+p{
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+p.titulo{
+	background-color: #1A1423;
+	border-radius: 7px;
+	width: 40%;
+	padding: 5px;
+	text-align: left;
+
+}
+
+form{
+	display: initial;
+	margin-bottom: 10px;
+	background-color: inherit;
+}
+
+input[value="Borrar"],
+input[value="Valorar"]{
+	font-size: 1rem;
+	margin-bottom: 0;
+}
+
+input[value="Valorar"]:hover{
+	background-color: #edb800;
+	color: white;
+	border: 2px solid #af6400;
+}
+
+input[value="Borrar"]:hover{
+	background-color: red;
+	color: white;
+	border: 2px solid darkred;
+}

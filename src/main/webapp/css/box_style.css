@@ -1,0 +1,25 @@
+
+fieldset{
+	color:  #d7a593;
+    border-radius: 10px;
+    background-color: #3D314A;
+    padding: 10px 15px 5px 15px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 1.8rem #29395a;
+    border-width: 0;
+}
+
+legend{
+    width: 60%;
+    overflow: auto;
+	font-size: 1.5rem;
+	font-weight: bold;
+    padding: 10px;
+    margin:  0 auto;
+    border-radius: 7px;
+	background-color: #1A1423;
+	box-shadow: 0px 0px 18px #29395a;
+}

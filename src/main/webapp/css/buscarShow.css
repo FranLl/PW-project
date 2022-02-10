@@ -1,0 +1,24 @@
+
+p{
+	text-align: left;
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+p#message{
+	text-align: center;
+	width: 100%;
+}
+
+input[type="text"]{
+	display: inline-block;
+	font-size: 1.2rem;
+	width: 60%;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+select{
+	font-size: 1.2rem;
+}

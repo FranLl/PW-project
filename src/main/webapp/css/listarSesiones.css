@@ -1,0 +1,33 @@
+
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+ul{
+	list-style: none;
+	display: contents;
+}
+
+li{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 5px;
+	border-radius: 10px;
+	text-decoration: none;
+	background-color: #684756;
+	overflow: auto;
+	width: 80%;
+	text-align: left;
+}
+
+div{
+	padding: 0;
+	float: left;
+	margin-left: 10px;
+	margin-top: 7px;
+	width: 70%;
+}

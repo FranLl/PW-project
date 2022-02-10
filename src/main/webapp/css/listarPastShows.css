@@ -1,0 +1,33 @@
+
+form{
+    display: block;
+    margin-bottom: 10px;
+    padding-top: 0;
+    margin: 0 auto;
+    background-color: inherit;
+}
+
+p{
+	text-align: center;
+	width: 40%;
+	padding: 5px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: #1A1423;
+}
+
+dl{
+    text-align: left;
+	border-radius: 10px;
+	background-color: #684756;
+	padding: 10px;
+}
+
+dt{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+dd{
+    text-align: justify;
+}

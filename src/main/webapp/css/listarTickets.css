@@ -1,0 +1,17 @@
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+p{
+	background-color: #684756;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 10px;
+	width: 80%;
+	margin: 5px auto;
+	margin-bottom: 10px;
+}

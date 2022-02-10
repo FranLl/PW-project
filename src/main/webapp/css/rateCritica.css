@@ -1,0 +1,41 @@
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+p{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    background-color: #1A1423;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+label[for="puntuacion"],
+input[type="range"],
+span{
+    display: inline-block;
+}
+
+label[for="puntuacion"]{
+    width: 30%;
+    text-align: center;
+}
+
+input[type="range"]{
+    vertical-align: top;
+    width: 50%;
+}
+
+span{
+    margin-left: 5px;
+    text-align: center;
+    width: 10%;
+    border-radius: 0px 10px 10px 0px;
+}

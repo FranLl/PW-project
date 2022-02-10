@@ -1,0 +1,45 @@
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+p{
+	background-color: #1A1423;
+	margin-left: 5%;
+	padding: 2px 0px 2px 0px;
+	text-align: center;
+	width: 45%;
+	border-radius: 10px;
+}
+
+dl{
+	margin: auto;
+}
+
+dt, dd{
+	margin: 0 auto;
+	padding: 5px;
+	background-color: #684756;
+	width: 80%;
+}
+
+dt{
+	margin-top: 10px;
+	border-radius: 10px 10px 0 0;
+	overflow: auto;
+	text-align: left;
+}
+
+dd{
+	margin-bottom: 10px;
+	border-radius: 0 0 10px 10px;
+	text-align: justify;
+}
+
+div{
+	margin: 0 auto;
+	width: 80%;
+}

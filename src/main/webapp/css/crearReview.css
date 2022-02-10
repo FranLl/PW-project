@@ -1,0 +1,94 @@
+
+form{
+    background-color: inherit;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+
+label[for="titulo"],
+label[for="descripcion"],
+label[for="locVentas"],
+label[for="puntuacion"],
+span,
+label.date_name{
+    background-color: #1A1423;
+    padding: 5px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+label[for="titulo"]{
+    display: block;
+    float: left;
+    padding-bottom: 3px;
+}
+
+input[name="titulo"], input[name="espectaculo"]{
+    width: 80%;
+    border-radius: 0 10px 10px 0;
+    border: 3px solid #1A1423;
+    font-size: 1.2rem;
+}
+
+label[for="descripcion"]{
+    display: block;
+    width: 30%;
+    min-width: 8rem;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-radius: 10px 10px 0 0;
+}
+
+p{
+    overflow: none;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+textarea{
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    display: block;
+    resize: none;
+    border-color: #1A1423;
+    margin-top: 0;
+    border-radius: 0 10px 10px 10px;
+    border: 3px solid #1A1423;
+    font-size: 1.2rem;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+label[for="puntuacion"],
+input[type="range"],
+span{
+    display: inline-block;
+}
+
+label[for="puntuacion"]{
+    width: 30%;
+    text-align: center;
+}
+
+input[type="range"]{
+    vertical-align: super;
+    width: 50%;
+}
+
+span{
+    margin-left: 5px;
+    text-align: center;
+    width: 10%;
+    border-radius: 0px 10px 10px 0px;
+}
+
+input[name="espectaculo"]{
+    width: 50%;
+}

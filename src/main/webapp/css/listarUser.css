@@ -1,0 +1,33 @@
+
+p{
+	margin-left: 5%;
+	background-color: #1A1423;
+	padding: 2px 0px 2px 0px;
+	text-align: center;
+	width: 45%;
+	border-radius: 7px;
+}
+
+ul{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 5px;
+	padding-right: 0;
+	border-radius: 7px;
+	background-color: #684756;
+	width: 80%;
+	text-align:	justify;
+	overflow: auto;
+}
+
+li{
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}

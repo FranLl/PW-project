@@ -1,0 +1,82 @@
+div{
+	float: left;
+	width: 25%;
+	margin: 7px 0 0 0;
+	padding: 2px 5px 2px 5px;
+	overflow: auto;
+}
+
+form{
+	display: inline;
+	background-color: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+p{
+	background-color: #1A1423;
+	margin-left: 5%;
+	padding: 2px 0px 2px 0px;
+	text-align: center;
+	width: 45%;
+	border-radius: 7px;
+}
+
+ul{
+	margin: auto;
+}
+
+li{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 2px 5px 2px 5px;
+	border-radius: 7px;
+	text-decoration: none;
+	background-color: #684756;
+	overflow: auto;
+	width: 95%;
+	text-align: left;
+}
+
+
+input[value="Añadir"],
+input[value="Modificar"],
+input[value="Borrar"],
+input[value="Cancelar"]{
+	font-size: 1rem;
+	margin: 5px 0 0 0;
+}
+
+input[value="Añadir"]:hover{
+	background-color: green;
+	color: white;
+	border: 2px solid darkgreen;
+}
+
+input[value="Volver"]{
+	font-size: 1.2rem;
+}
+
+input[value="Volver"]:hover{
+	background-color: #1A1423;
+	color: white;
+	border: 2px solid #d7a593;
+}
+
+input[value="Modificar"]:hover{
+	background-color: #edb800;
+	color: white;
+	border: 2px solid #af6400;
+}
+
+input[value="Borrar"]:hover{
+	background-color: red;
+	color: white;
+	border: 2px solid darkred;
+}
+
+input[value="Cancelar"]:hover{
+	background-color: black;
+	color: white;
+	border: 2px solid darkred;
+}

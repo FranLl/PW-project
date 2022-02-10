@@ -1,0 +1,20 @@
+
+div{
+	color:  #d7a593;
+    border-radius: 10px;
+    background-color: #3D314A;
+    padding: 10px 15px 5px 15px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 1.8rem #29395a;
+    border-width: 0;
+}
+
+form{
+	background-color:inherit;
+	display: inline;
+	margin: 5px auto;
+	margin: 10px;
+}
